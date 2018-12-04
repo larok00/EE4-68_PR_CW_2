@@ -10,6 +10,7 @@ jupyter = "*"
 scipy = "*"
 numpy = "*"
 sklearn = "*"
+matplotlib = "*"
 
 [requires]
 python_version = "3.7"
